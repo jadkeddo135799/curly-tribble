@@ -1,0 +1,44 @@
+{
+  "price": {
+    "label": "Objection: price",
+    "hear": ["too expensive", "too much", "can't afford", "cannot afford", "out of (our|my) budget", "over (our|my) budget", "no budget", "cheaper", "pricey", "costs? (a lot|too much)", "that's a lot", "steep", "(lower|better) price", "discount"],
+    "say": "Totally fair. {value_line} Want to start on the {plan_b}?",
+    "why": "Agree first, then make the price small next to what it brings back, then give a smaller first step. Never drop the price without changing what they get."
+  },
+  "timing": {
+    "label": "Objection: timing",
+    "hear": ["not (the )?right (time|now)", "bad time", "busy season", "next (year|quarter|month)", "after the holidays", "come back (to me )?(later|in)", "maybe later", "not yet", "too busy"],
+    "say": "Makes sense. What would need to be true for this to be the right time? If it helps, we can do the work now and go live when you're ready.",
+    "why": "Find out if timing is the real reason. If it is, agree a date and let /win-back come back then."
+  },
+  "think": {
+    "label": "Objection: needs to think",
+    "hear": ["think about it", "think it over", "sleep on it", "mull it over", "let me think", "get back to you"],
+    "say": "Of course. So I can help you think it through: is it the price, the timing, or whether it will actually work for you?",
+    "why": "'Let me think' usually hides one real question. Ask which one, kindly, once."
+  },
+  "authority": {
+    "label": "Objection: someone else decides",
+    "hear": ["talk to my (partner|wife|husband|boss|team|business partner|accountant)", "run it by", "check with", "not my (call|decision)", "need approval", "the board"],
+    "say": "Makes sense. What will they want to know? I can send you a one-page summary to share, or we can grab 15 minutes with them this week.",
+    "why": "Help them sell it inside. Offer the summary (/proposal-writer) or a second call with the decider."
+  },
+  "incumbent": {
+    "label": "Objection: already has someone",
+    "hear": ["already have (a|an|someone|somebody)", "we use", "my (nephew|cousin|friend) (does|built|made)", "happy with (our|my)", "already working with", "in-house"],
+    "say": "Good, that means you already know it matters. What's one thing you wish they did better?",
+    "why": "Do not knock the other option. Find the gap they already feel."
+  },
+  "proof": {
+    "label": "Objection: does it work?",
+    "hear": ["does (it|this) (actually )?work", "how do i know", "guarantee", "results", "proof", "tried (this|that) before", "burned before", "didn't work"],
+    "say": "Fair question. Here's what happened for a business like yours: {proof}. Want me to send it over?",
+    "why": "Answer with a real result you can show. If you have none yet, say so and offer a short first step instead."
+  },
+  "send_info": {
+    "label": "Brush-off: send me info",
+    "hear": ["send (me )?(some )?(info|information|details|something)", "email me (the )?(details|info)", "put it in an email"],
+    "say": "Happy to. So I send the right thing: what matters most to you, getting more customers or saving time?",
+    "why": "Send it, but ask one question first so the email answers what they care about. Book the next step before you hang up."
+  }
+}

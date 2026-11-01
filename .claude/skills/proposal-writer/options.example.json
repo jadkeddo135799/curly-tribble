@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Full build",
+    "setup": 2500,
+    "monthly": 0,
+    "includes": ["Booking-ready website", "Live in 14 days", "Google Ads set up"]
+  },
+  {
+    "name": "Monthly plan",
+    "setup": 0,
+    "monthly": 399,
+    "includes": ["Booking-ready website", "Managed Google Ads", "No setup fee", "Cancel anytime"],
+    "recommended": true
+  }
+]

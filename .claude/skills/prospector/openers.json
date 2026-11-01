@@ -1,0 +1,34 @@
+{
+  "no-booking": {
+    "subject": "Quick idea for {company}",
+    "body": "Hi {first},\n\nI noticed {short} doesn't have online booking yet. Most people book after hours, so that's new customers going to the place down the street.\n\nWe do {offer} for local businesses in 2 weeks. Worth a 15 minute call?\n\nThanks,\n{me}"
+  },
+  "not-mobile": {
+    "subject": "Quick idea for {company}",
+    "body": "Hi {first},\n\nI pulled up the {company} site on my phone and it's hard to use there, and most local searches happen on a phone.\n\nWe do {offer} for local businesses in 2 weeks. Worth a 15 minute call?\n\nThanks,\n{me}"
+  },
+  "slow": {
+    "subject": "Quick idea for {company}",
+    "body": "Hi {first},\n\nThe {company} site took a while to load for me, and people tend to leave a slow page before it finishes.\n\nWe do {offer} for local businesses in 2 weeks. Worth a 15 minute call?\n\nThanks,\n{me}"
+  },
+  "no-ads": {
+    "subject": "Quick idea for {company}",
+    "body": "Hi {first},\n\nIt looks like {company} isn't running Google Ads, so the people searching for you right now see someone else first.\n\nWe do {offer} for local businesses. Worth a 15 minute call?\n\nThanks,\n{me}"
+  },
+  "no-ordering": {
+    "subject": "Quick idea for {company}",
+    "body": "Hi {first},\n\nI couldn't find a way to order from {company} online, and a lot of people only order that way now.\n\nWe do {offer} for local businesses in 2 weeks. Worth a 15 minute call?\n\nThanks,\n{me}"
+  },
+  "no-reviews": {
+    "subject": "Quick idea for {company}",
+    "body": "Hi {first},\n\nThe {company} site doesn't show any of your reviews, and they're usually the first thing a new customer looks for.\n\nWe do {offer} for local businesses in 2 weeks. Worth a 15 minute call?\n\nThanks,\n{me}"
+  },
+  "no-site": {
+    "subject": "Quick idea for {company}",
+    "body": "Hi {first},\n\nI went looking for the {company} website and couldn't load it, so people searching for you may be hitting a dead end.\n\nWe do {offer} for local businesses in 2 weeks. Worth a 15 minute call?\n\nThanks,\n{me}"
+  },
+  "generic": {
+    "subject": "Quick idea for {company}",
+    "body": "Hi {first},\n\nI had a quick idea for {company} I think would bring in more customers.\n\nWe do {offer} for local businesses. Worth a 15 minute call?\n\nThanks,\n{me}"
+  }
+}

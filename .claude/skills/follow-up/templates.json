@@ -1,0 +1,22 @@
+{
+  "followup-1": {
+    "use": "2 days after the opening: a short bump, nothing new needed",
+    "subject": "Re: quick idea for {company}",
+    "body": "Hi {first}, just bumping this up in case it got buried.\n\n{me}"
+  },
+  "followup-2": {
+    "use": "2 days after follow-up 1: give them something (a mockup, a number, a result)",
+    "subject": "Re: quick idea for {company}",
+    "body": "Hi {first}, {hook}\n\n{me}"
+  },
+  "followup-3": {
+    "use": "4 days after follow-up 2: the last one, and it says so",
+    "subject": "Re: quick idea for {company}",
+    "body": "Hi {first}, should I close the loop on this, or is {hook} good for a quick call? Either answer is fine, and this is my last note.\n\n{me}"
+  },
+  "confirm-time": {
+    "use": "they replied with a time: confirm it and say the invite is coming",
+    "subject": "Re: quick idea for {company}",
+    "body": "{hook} works, {first}. Sending the invite now. Talk then!\n\n{me}"
+  }
+}

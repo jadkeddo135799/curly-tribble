@@ -3,3 +3,6 @@ __pycache__/
 build/
 dist/
 .venv/
+
+# Closer skill data (leads, emails, call notes) — keep out of git
+closer/
