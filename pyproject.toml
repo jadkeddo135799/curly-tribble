@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agent-reach"
+version = "0.1.0"
+description = "One CLI for agents to search and read across internet channels"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+agent-reach = "agent_reach.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["agent_reach*"]
